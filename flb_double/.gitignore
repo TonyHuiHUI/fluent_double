@@ -1,0 +1,6 @@
+*~
+_book/
+lib/jemalloc
+lib/onigmo
+.vs/
+tests/internal/flb_tests_internal.h
